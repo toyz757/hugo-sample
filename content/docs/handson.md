@@ -78,7 +78,7 @@ date: 2022-09-08
 
 1. 拡張子.mdでファイルを新規に作成します。  
 2. 冒頭に title と date のメタデータを書いて保存します。  
-3. ブラウザで「[http://localhost:1313/hugo-sample/](http://localhost:1313/hugo-sample/)」を開いて記事が追加されていることを確認します
+3. ブラウザで「[http://localhost:1313/](http://localhost:1313/)」を開いて記事が追加されていることを確認します
 4. あとは自由に Markdown で記事を書いてみてください
 
 ## GitHubAction で作業を自動化してみよう
