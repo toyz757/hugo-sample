@@ -37,7 +37,7 @@ VS Code Remote Continer の設定がされた Git リポジトリをクローン
 1. 開発用のコンテナが起動するまで待ちます（初回は時間がかかります）
 1. 上部メニュー＞ターミナル＞新しいターミナルを選択します
 1. 開いたターミナルで `hugo server -w` のコマンドを実行します
-1. ブラウザで「[http://localhost:1313/hugo-sample/](http://localhost:1313/hugo-sample/)」を開きます
+1. ブラウザで「[http://localhost:1313/](http://localhost:1313/)」を開きます
 1. md ファイルの１つを更新して保存したときに、すぐにブラウザ側に反映されていることを確認します
 
 ### (B) Mac端末
@@ -56,7 +56,7 @@ VS Code Remote Continer の設定がされた Git リポジトリをクローン
 1. 開発用のコンテナが起動するまで待ちます（初回は時間がかかります）
 1. 上部メニュー＞ターミナル＞新しいターミナルを選択します(`ctrl + shift + @` でも可)
 1. 開いたターミナルで `hugo server -w` のコマンドを実行します
-1. ブラウザで「[http://localhost:1313/hugo-sample/](http://localhost:1313/hugo-sample/)」を開きます
+1. ブラウザで「[http://localhost:1313/](http://localhost:1313/)」を開きます
 1. md ファイルの１つを更新して保存したときに、すぐにブラウザ側に反映されていることを確認します
 
 
