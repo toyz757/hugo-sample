@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  HUGO_BASEURL: https://toy757.github.io/hugo-example/
+  HUGO_BASEURL: https://toyz757.github.io/hugo-sample/
 
 jobs:
   build-and-deploy:
