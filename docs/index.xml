@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown によるドキュメント管理の紹介 on My New Hugo Site</title>
-    <link>https://toy757.github.io/hugo-example/docs/</link>
+    <link>https://toyz757.github.io/hugo-sample/docs/</link>
     <description>Recent content in Markdown によるドキュメント管理の紹介 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 08 Jul 2022 05:01:41 +0000</lastBuildDate><atom:link href="https://toy757.github.io/hugo-example/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 05:01:41 +0000</lastBuildDate><atom:link href="https://toyz757.github.io/hugo-sample/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Is Markdown</title>
-      <link>https://toy757.github.io/hugo-example/docs/what_is_markdown/</link>
+      <link>https://toyz757.github.io/hugo-sample/docs/what_is_markdown/</link>
       <pubDate>Fri, 08 Jul 2022 05:01:41 +0000</pubDate>
       
-      <guid>https://toy757.github.io/hugo-example/docs/what_is_markdown/</guid>
+      <guid>https://toyz757.github.io/hugo-sample/docs/what_is_markdown/</guid>
       <description>Markdownとは？ Markdownは、プレーンテキストテキストドキュメントに書式設定要素を追加するために使用できる軽量マークアップ言語です。 現在、世界で最も人気のあるマークアップ言語の1つです。
 なぜMarkdownを使うのか？ 人々がMarkdownを使用する理由はいくつかあります。
 マークダウンはすべてに使用できます。人々はそれを使用して、Webサイト、ドキュメント、メモ、書籍、プレゼンテーション、電子メールメッセージ、および技術ドキュメントを作成します。
@@ -24,10 +24,10 @@ Markdownはプラットフォームに依存しません。任意のオペレー
     
     <item>
       <title>Document for Git</title>
-      <link>https://toy757.github.io/hugo-example/docs/document-for-git/</link>
+      <link>https://toyz757.github.io/hugo-sample/docs/document-for-git/</link>
       <pubDate>Fri, 02 Sep 2022 05:42:11 +0000</pubDate>
       
-      <guid>https://toy757.github.io/hugo-example/docs/document-for-git/</guid>
+      <guid>https://toyz757.github.io/hugo-sample/docs/document-for-git/</guid>
       <description>GitによるDocumentの管理のすゝめ 従来のドキュメント管理の方法 こんなドキュメント管理してませんか？ 日付ごとのフォルダで管理 同じ資料を色々な場所に配置 このような管理では… (最新の)資料がどこにあるか探しにくい！ 前回との差分が何か分かりにくい！ そこで、Gitによるドキュメント管理はいかがでしょうか。
 Gitによるドキュメント管理とは…? Markdown形式で記載したドキュメントをGitリポジトリで管理すること
 Gitとは…? チーム開発における同時更新を防ぐために、ソースコードなどの変更履歴を記録するバージョン管理システム。
@@ -52,20 +52,20 @@ Gitによるドキュメント管理への疑念 ~スライド作成~ VSCodeに�
     
     <item>
       <title>ドキュメント更新ハンズオン</title>
-      <link>https://toy757.github.io/hugo-example/docs/handson/</link>
+      <link>https://toyz757.github.io/hugo-sample/docs/handson/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://toy757.github.io/hugo-example/docs/handson/</guid>
+      <guid>https://toyz757.github.io/hugo-sample/docs/handson/</guid>
       <description>ゴール Markdown の基本的な記法が理解できる VS Code Remote Continer 上の Hugo で Markdown を Web サイトコンテンツに変換できる GitHub Action を利用する方法がわかる 【Want】 Hugo の設定を変更して、Web サイトコンテンツをカスタマイズできる 目次 VS Code Remote Container で Hugo を動かしてみよう Markdown でドキュメントを書いてみよう 自由練習１～　好きに Markdown を書いて、Web サイトに記事を追加してみましょう GitHubAction で作業を自動化してみよう 自由練習２ Hugo の設定を変更して、Web サイトコンテンツをカスタマイズしてみよう VS Code Remote Container で Hugo を動かしてみよう VS Code Remote Continer の設定がされた Git リポジトリをクローンして、さっそく Hugo がどんなものなのか体験してみましょう
 (A) Windows端末 WSL2 を起動します（Windowsキーを押下→Ubuntuを入力） Docker を起動しておきます： sudo service docker start 任意の作業用のフォルダに移動します（例：ホームディレクトリでよければ cd を打てばＯＫ） 演習用の GitHub リポジトリを取得します（ git clone --recursive https://github.</description>
     </item>
     
     <item>
       <title>My Hobby</title>
-      <link>https://toy757.github.io/hugo-example/docs/sample/</link>
+      <link>https://toyz757.github.io/hugo-sample/docs/sample/</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://toy757.github.io/hugo-example/docs/sample/</guid>
+      <guid>https://toyz757.github.io/hugo-sample/docs/sample/</guid>
       <description>私の趣味 </description>
     </item>
     
