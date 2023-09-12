@@ -1,4 +1,4 @@
 baseURL = '/'
 languageCode = 'ja'
-title = 'My New Hugo Site'
+title = 'Workflow Sample Branch'
 theme = "ananke"
